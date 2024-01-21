@@ -1,4 +1,4 @@
-package com.flink.java;
+package com.flink.java.playground;
 
 import org.apache.flink.api.common.functions.FilterFunction;
 import org.apache.flink.api.common.functions.MapFunction;
